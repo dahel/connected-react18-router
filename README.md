@@ -1,3 +1,9 @@
+IMPORTANT NOTE
+======================
+This repo is forked from https://github.com/supasate/connected-react-router in order to update peerDependencies to support react 18.
+
+&nbsp;
+
 > Breaking change in v5.0.0! Please read [How to migrate from v4 to v5/v6](https://github.com/supasate/connected-react-router/blob/master/FAQ.md#how-to-migrate-from-v4-to-v5v6).
 
 > v6.0.0 requires React v16.4.0 and React Redux v6.0 / v7.0.
@@ -30,11 +36,11 @@ Installation
 Connected React Router requires **React 16.4 and React Redux 6.0 or later**.
 
 
-    npm install --save connected-react-router
+    npm install --save connected-react-router-for-react18
 
 Or
 
-    yarn add connected-react-router
+    yarn add connected-react-router-for-react18
 
 Usage
 -----
