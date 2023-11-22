@@ -1,4 +1,4 @@
-declare module 'connected-react-v18-router' {
+declare module 'connected-react-router-for-react18' {
   import * as React from 'react';
   import { Middleware, Reducer } from 'redux';
   import { ReactReduxContextValue } from 'react-redux';
