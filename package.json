@@ -1,6 +1,6 @@
 {
-  "name": "connected-react-router",
-  "version": "6.9.3",
+  "name": "connected-react-router-for-react18",
+  "version": "1.0.0",
   "description": "A Redux binding for React Router v4 and v5",
   "main": "lib/index.js",
   "module": "esm/index.js",
@@ -33,7 +33,7 @@
   },
   "peerDependencies": {
     "history": "^4.7.2",
-    "react": "^16.4.0 || ^17.0.0",
+    "react": "^16.4.0 || ^17.0.0 || ^18.0.0",
     "react-redux": "^6.0.0 || ^7.1.0",
     "react-router": "^4.3.1 || ^5.0.0",
     "redux": "^3.6.0 || ^4.0.0"
@@ -84,9 +84,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/supasate/connected-react-router.git"
+    "url": "https://github.com/dahel/connected-react18-router.git"
   },
   "bugs": {
-    "url": "https://github.com/supasate/connected-react-router/issues"
+    "url": "https://github.com/dahel/connected-react18-router/issues"
   }
 }
