@@ -2,5 +2,5 @@
 
 declare module 'connected-react-router/seamless-immutable' {
 
-    export * from 'connected-react-router';
+    export * from 'connected-react-router-for-react18';
 }
